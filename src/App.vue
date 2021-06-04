@@ -26,33 +26,29 @@
       </div>
 
       <v-btn
-        href="https://github.com/vuetifyjs/vuetify/releases/latest"
-        target="_blank"
         text
+        to="/"
       >
         <span class="mr-2">Home</span>
       </v-btn>
 
       <v-btn
-        href="https://github.com/vuetifyjs/vuetify/releases/latest"
-        target="_blank"
         text
+        to="/projects"
       >
         <span class="mr-2">Projects</span>
       </v-btn>
 
       <v-btn
-        href="https://github.com/vuetifyjs/vuetify/releases/latest"
-        target="_blank"
         text
+        to="/about"
       >
         <span class="mr-2">About me</span>
       </v-btn>
 
       <v-btn
-        href="https://github.com/vuetifyjs/vuetify/releases/latest"
-        target="_blank"
         text
+        to="/contact"
       >
         <span class="mr-2">Contact</span>
       </v-btn>
@@ -71,6 +67,7 @@
 
     <v-main>
       <HelloWorld/>
+      <router-view/>
     </v-main>
   </v-app>
 </template>
