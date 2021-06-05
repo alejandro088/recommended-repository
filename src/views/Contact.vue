@@ -49,11 +49,17 @@
                 </v-row>
             </v-container>
         </v-form>
+
+        <Footer />
     </div>
 </template>
 
 <script>
+import Footer from '@/components/Footer';
 export default {
+    
+    
+    components: { Footer },
     data: () => ({
         valid: false,
         firstname: '',
