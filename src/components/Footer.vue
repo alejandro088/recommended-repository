@@ -27,7 +27,7 @@
       </v-card-title>
 
       <v-card-text class="py-2 white--text text-center">
-        {{ new Date().getFullYear() }} — <strong>Vuetify</strong>
+        {{ new Date().getFullYear() }} — <strong> Grupo de estudio Dev-Tools</strong>
       </v-card-text>
     </v-card>
   </v-footer>
