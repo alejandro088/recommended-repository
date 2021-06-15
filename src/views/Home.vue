@@ -7,7 +7,7 @@
             />
 
 
-            <h1> Greetings FrontEnd Cafe!! </h1>
+            <h1> Hi FrontEnd Cafe!! </h1>
 
 
             <h2>
@@ -22,6 +22,19 @@
                 laboriosam rerum corporis, minima laudantium autem temporibus
                 sint harum consequatur tempore. Aut, recusandae laboriosam.
             </p>
+
+            <h2>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius
+                deserunt, modi ab velit delectus impedit. Tenetur cum libero
+                natus. Nostrum nobis quisquam
+            </h2>
+
+            <h2>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius
+                deserunt, modi ab velit delectus impedit. Tenetur cum libero
+                natus. Nostrum nobis quisquam
+            </h2>
+
         </v-container>
 
         <Footer />
