@@ -71,7 +71,7 @@
                     </v-avatar>
                     </v-row>
                     <v-row align-content="center">
-                    FrontEnd Developer
+                    Backend Developer
                     </v-row>
                 </v-col>
                 <v-col>
