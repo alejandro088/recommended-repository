@@ -16,12 +16,7 @@
                 natus. Nostrum nobis quisquam
             </h2>
 
-            <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Expedita cumque aperiam maxime aliquam, amet animi molestias
-                laboriosam rerum corporis, minima laudantium autem temporibus
-                sint harum consequatur tempore. Aut, recusandae laboriosam.
-            </p>
+            <h3> Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus deserunt suscipit sequi saepe ad. Totam quis pariatur maiores dolor magnam. Eius labore eos nostrum magni officiis laudantium et sunt praesentium. </h3>                
 
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -31,10 +26,9 @@
             </p>
 
             <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Expedita cumque aperiam maxime aliquam, amet animi molestias
-                laboriosam rerum corporis, minima laudantium autem temporibus
-                sint harum consequatur tempore. Aut, recusandae laboriosam.
+                amet consectetur adipisicing elit.
+                Expedita cumque aperiam Lorem ipsum dolor sit amet consectetur  maxime aliquam, amet animi molestias
+                laboriosam rerum corporis, minima l
             </p>
         </v-container>
 
