@@ -9,15 +9,6 @@
 
             <h1> Hi FrontEnd Cafe!! </h1>
 
-
-            <h2>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius
-                deserunt, modi ab velit delectus impedit. Tenetur cum libero
-                natus. Nostrum nobis quisquam
-            </h2>
-
-            <h3> Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus deserunt suscipit sequi saepe ad. Totam quis pariatur maiores dolor magnam. Eius labore eos nostrum magni officiis laudantium et sunt praesentium. </h3>                
-
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Expedita cumque aperiam maxime aliquam, amet animi molestias
