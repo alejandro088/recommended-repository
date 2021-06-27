@@ -8,7 +8,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "test": "npm test"
+    "test": "echo test"
   },
   "main": "index.js",
   "dependencies": {
