@@ -1,6 +1,6 @@
 {
   "name": "recommendedrepository",
-  "version": "1.0.0",
+  "version": "0.0.0-development",
   "private": true,
   "description": "Recommended Repository for Github",
   "author": "",
@@ -8,7 +8,8 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "test": "npm test"
+    "test": "npm test",
+    "semantic-release": "semantic-release"
   },
   "main": "index.js",
   "dependencies": {
@@ -27,6 +28,7 @@
     "eslint-plugin-vue": "^6.2.2",
     "sass": "~1.32.0",
     "sass-loader": "^10.0.0",
+    "semantic-release": "^17.4.4",
     "vue-cli-plugin-vuetify": "~2.4.1",
     "vue-template-compiler": "^2.6.11",
     "vuetify-loader": "^1.7.0"
@@ -52,5 +54,9 @@
   ],
   "_id": "recommendedrepository@1.0.0",
   "license": "ISC",
-  "readme": "ERROR: No README data found!"
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alejandro088/recommended-repository.git"
+  }
 }
