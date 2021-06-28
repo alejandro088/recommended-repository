@@ -33,11 +33,9 @@
     "vuetify-loader": "^1.7.0",
     "semantic-release": "^5.4.3"
   },
-  {
-    "repository": {
+  "repository": {
       "type": "git",
       "url": "https://github.com/alejandro088/recommended-repository.git"
-    }
   },
   "eslintConfig": {
     "root": true,
