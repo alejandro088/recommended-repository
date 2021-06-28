@@ -1,6 +1,6 @@
 {
   "name": "recommendedrepository",
-  "version": "1.0.0",
+  "version": "0.0.0-development",
   "private": true,
   "description": "Recommended Repository for Github",
   "author": "",
@@ -8,7 +8,8 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "test": "echo test"
+    "test": "echo test",
+    "semantic-release": "semantic-release"
   },
   "main": "index.js",
   "dependencies": {
@@ -29,7 +30,14 @@
     "sass-loader": "^10.0.0",
     "vue-cli-plugin-vuetify": "~2.4.1",
     "vue-template-compiler": "^2.6.11",
-    "vuetify-loader": "^1.7.0"
+    "vuetify-loader": "^1.7.0",
+    "semantic-release": "^5.4.3"
+  },
+  {
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/alejandro088/recommended-repository.git"
+    }
   },
   "eslintConfig": {
     "root": true,
