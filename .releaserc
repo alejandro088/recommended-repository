@@ -1,0 +1,7 @@
+---
+branches:
+- master
+- name: .+release
+  prerelease: true
+plugins:
+- - "@semantic-release/github"
