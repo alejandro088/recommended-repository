@@ -16,11 +16,6 @@
                 sint harum consequatur tempore. Aut, recusandae laboriosam.
             </p>
 
-            <p>
-                amet consectetur adipisicing elit.
-                Expedita cumque aperiam Lorem ipsum dolor sit amet consectetur  maxime aliquam, amet animi molestias
-                laboriosam rerum corporis, minima l
-            </p>
         </v-container>
 
         <Footer />
